@@ -1,0 +1,8 @@
+langchain
+openai
+langchain_openai
+langchain_community
+langchain_experimental
+langgraph
+langgraph-cli
+duckduckgo_search==5.3.0b4

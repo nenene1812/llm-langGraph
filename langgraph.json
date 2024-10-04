@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "./agent.py:call_gpt3"
+  },
+  "env": ".env"
+}
